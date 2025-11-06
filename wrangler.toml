@@ -15,4 +15,4 @@ bindings = [
 
 [[migrations]]
 tag = "v1"
-new_classes = ["ChatDurableObject"]
+new_sqlite_classes = ["ChatDurableObject"]
